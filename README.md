@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hello World 👋 Bem vindos ao meu perfil 
 
-<!--
-**EricaSantos-FullStack/EricaSantos-FullStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
