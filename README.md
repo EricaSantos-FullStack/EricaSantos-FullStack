@@ -1,7 +1,7 @@
 ### Hello World 👋 Welcome! I am Erica - a Software Developer Jr.
 ---
 
-- 🔭 I’m currently working on Marketing, Social Media and Business Intelligence with Database.
+- 🔭 I’m currently working on Marketing, Social Media and Business Intelligence with PowerBI.
 - 🌱 I’m currently learning Cyber Security and some languages as Python, JavaScript, C# and PHP.
 - 👯 I’m looking to collaborate on a new project with someone.
 - 🤔 I’m looking for help with career tips.
