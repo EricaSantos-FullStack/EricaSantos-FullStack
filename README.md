@@ -1,3 +1,5 @@
+  <img align="center" alt="print(Hello, World!)" height="140" width="930" src="https://user-images.githubusercontent.com/71906862/139163435-d3606313-68bc-44a3-a679-c8cc2efa6c2a.gif">
+
 ### Hello World 👋 Welcome! I am Erica - a Software Developer Jr.
 ---
 
