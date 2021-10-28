@@ -1,12 +1,12 @@
-  <img align="center" alt="print(Hello, World!)" height="140" width="930" src="https://user-images.githubusercontent.com/71906862/139163435-d3606313-68bc-44a3-a679-c8cc2efa6c2a.gif">
+<img align="center" alt="print(Hello, World!)" height="140" width="930" src="https://user-images.githubusercontent.com/71906862/139163435-d3606313-68bc-44a3-a679-c8cc2efa6c2a.gif">
 
 ### Hello World 👋 Welcome!
 ---
 
 - 🔭 I’m currently working on Marketing, Social Media and Business Intelligence with PowerBI.
-- 🌱 I’m currently learning Cyber Security and some languages as Python, JavaScript, C# and PHP.
-- 👯 I’m looking to collaborate on a new project with someone.
-- 🤔 I’m looking for help with career tips.
+- 🌱 I’m currently learning Cyber Security, MySQL and some languages as Python, JavaScript, C# and PHP. I
+- 👯 I’m looking to collaborate on a study group.
+- 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
 - 📫 How to reach me: https://www.linkedin.com/in/erica-s-francisco/
 - ⚡ Fun fact: I'm improving my README day by day so ... keep your eyes open for more news!
