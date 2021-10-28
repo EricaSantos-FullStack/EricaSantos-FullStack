@@ -40,6 +40,12 @@
    #### Team:
    <a href = "https://www.playstation.com/pt-br/"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
  
+  <!-- ## Total de visitas no meu perfil :detective: 
+   <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/EricaSantos-FullStack/count.svg" />
+ </p> -->
+ 
   ![Snake animation](https://github.com/EricaSantos-FullStack/EricaSantos-FullStack/blob/output/github-contribution-grid-snake.svg)
  
 </div>
