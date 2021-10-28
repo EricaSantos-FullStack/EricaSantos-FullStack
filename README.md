@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on Marketing, Social Media and Business Intelligence with PowerBI.
-- 🌱 I’m currently learning Cyber Security, MySQL and some languages as Python, JavaScript, C# and PHP. I
+- 🌱 I’m currently learning Cyber Security and some languages as Python, JavaScript, C# and PHP.
 - 👯 I’m looking to collaborate on a study group.
 - 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
