@@ -10,6 +10,7 @@
 - 💬 Ask me about Figma, UI/UX! 
 - 📫 How to reach me: https://www.linkedin.com/in/erica-s-francisco/
 - ⚡ Fun fact: I'm improving my README day by day so ... keep your eyes open for more news!
+- ⚡ Fun fact 2: I was an English teacher and I have lived abroad for awhile. Ask me where! Can you guess? 
 
 <div align="center">
   <a href="https://github.com/EricaSantos-FullStack">
