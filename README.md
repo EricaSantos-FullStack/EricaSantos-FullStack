@@ -37,8 +37,14 @@
  <div> 
   <a href = "mailto:ericasantosfrancisco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erica-s-francisco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.duolingo.com/profile/Miss_Ericat" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
  
-   #### Team:
+   #### Coding:
+  <a href = "https://repl.it/@EricaFullStack"><img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
+   #### Design:
+   <a href = # ><img src= "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"></a>
+   <a href = # ><img src= "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+   #### Team Gamer:
    <a href = "https://www.playstation.com/pt-br/"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/EricaSantos-FullStack/EricaSantos-FullStack/blob/output/github-contribution-grid-snake.svg)
