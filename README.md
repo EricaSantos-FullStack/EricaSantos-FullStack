@@ -52,6 +52,7 @@
   
    ### Total de visitas no meu perfil :detective: 
    ##
+  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/EricaSantos-FullStack/count.svg" />
  </p>
