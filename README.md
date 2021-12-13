@@ -3,8 +3,9 @@
 ### Hello World 👋 Welcome!
 ---
 
-- 🔭 I’m currently working on Marketing, Social Media and Business Intelligence with PowerBI.
-- 🌱 I’m currently learning Cyber Security and some languages as Python, JavaScript, C# and PHP.
+- 🔭 I’m currently working on Marketing and Social Media.
+- 🌱 I’m currently learning Cyber Security and some languages as JavaScript, Python and C#. PHP.
+- 🎡 I would like to learn PHP and TypeScript.
 - 👯 I’m looking to collaborate on a study group.
 - 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
