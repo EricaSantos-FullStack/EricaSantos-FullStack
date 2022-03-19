@@ -2,16 +2,21 @@
 
 ### Hello World 👋 Welcome!
 ---
+##### Learning how to Excel myself everyday. Go ahead and don't look back! 🚀🎯
+---
 
-- 🔭 I’m currently working on Marketing and Social Media.
-- 🌱 I’m currently learning Cyber Security and some languages as JavaScript, Python and C#. PHP.
-- 🎡 I would like to learn PHP and TypeScript.
+
+- 🔭 I’m currently working as a Back-end Developer Junior. 
+- 🌱 I’m currently learning NodeJS, ES6, TypeORM, PostgreSQL and GraphQL.
+- 🎡 I would like to improve my knowledge of JavaScript and Python. 
+- 🧩 I used to learn C# and PHP for awhile.
 - 👯 I’m looking to collaborate on a study group.
 - 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
 - 📫 How to reach me: https://www.linkedin.com/in/erica-s-francisco/
 - ⚡ Fun fact: I'm improving my README day by day so ... keep your eyes open for more news!
 - ⚡ Fun fact 2: I was an English teacher and I have lived abroad for awhile. Ask me where! Can you guess? 
+
 
 <div align="center">
   <a href="https://github.com/EricaSantos-FullStack">
