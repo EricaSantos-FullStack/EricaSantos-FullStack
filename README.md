@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as a Back-end Developer Junior. 
 - 🌱 I’m currently learning NodeJS, ES6, TypeORM, PostgreSQL and GraphQL.
 - 🎡 I would like to improve my knowledge of JavaScript and tests with Jest. 
-- 🧩 I used to learn C# and PHP for awhile.
+- 🧩 I used to learn C#, Python and PHP for awhile.
 - 👯 I’m looking to collaborate on a study group.
 - 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
