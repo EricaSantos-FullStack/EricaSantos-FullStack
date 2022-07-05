@@ -42,8 +42,9 @@
   <img align="center" alt="Erica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erica-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erica-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <!-- <img align="center" alt="Erica-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> -->
   <img align="center" alt="Erica-mysql" height="30" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+  <img align="center" alt="Erica-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Erica-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
   
   <img align="right" alt="Erica-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71906862/138987543-fdf6b386-949c-417d-8643-542ae183943a.gif?width=676&height=676">
 </div>
