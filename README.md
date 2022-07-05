@@ -46,8 +46,9 @@
   <img align="center" alt="Erica-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Erica-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
   
-  <img align="right" alt="Erica-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71906862/138987543-fdf6b386-949c-417d-8643-542ae183943a.gif?width=676&height=676">
 </div>
+
+ <!-- <img align="right" alt="Erica-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/71906862/138987543-fdf6b386-949c-417d-8643-542ae183943a.gif?width=676&height=676"> -->
   
  ##
 
