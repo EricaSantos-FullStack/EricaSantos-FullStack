@@ -4,7 +4,7 @@
 ---
 ##### Learning how to Excel myself everyday. Go ahead and don't look back! 🚀🎯
 ---
-<a href="https://app.daily.dev/BackEnd"><img src="https://api.daily.dev/devcards/ec85e96cfb5e4ae39e6559e0d11c71be.png?r=fb4" width="400" alt="Erica's Dev Card"/></a>
+<a href="https://app.daily.dev/BackEnd"><img src="https://github.com/EricaSantos-FullStack/EricaSantos-FullStack/blob/main/devcard.svg" width="400" alt="Erica's Dev Card"/></a>
 
 - 🔭 I’m currently working as a Back-end Developer Junior. 
 - 🌱 I’m currently learning NodeJS, ES6, TypeORM, PostgreSQL and GraphQL.
