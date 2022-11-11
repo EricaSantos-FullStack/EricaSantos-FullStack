@@ -2,7 +2,7 @@
 
 ### Hello World 👋 Welcome!
 ---
-##### Learning how to Excel myself everyday. Go ahead and don't look back! 🚀🎯
+##### Learning how to Excel myself every day. Go ahead and don't look back! 🚀🎯
 ---
 
 
