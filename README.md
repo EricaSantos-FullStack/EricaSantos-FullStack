@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on a study group.
 - 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
-- 📫 How to reach me: https://www.linkedin.com/in/erica-s-francisco/
+- 📫 How to reach me: add me on [LinkedIn](https://www.linkedin.com/in/erica-s-francisco/)
 - ⚡ Fun fact: I'm improving my README day by day so ... keep your eyes open for more news!
 - ⚡ Fun fact 2: I was an English teacher and I have lived abroad for awhile. Ask me where! Can you guess? 
 
