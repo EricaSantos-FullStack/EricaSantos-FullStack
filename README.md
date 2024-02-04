@@ -15,10 +15,11 @@
   </a>
 </div>
 
-- 🔭 I’m currently working as a Back-end Developer Junior. 
-- 🌱 I’m currently learning NodeJS, ES6, TypeORM, PostgreSQL and GraphQL.
-- 🎡 I would like to improve my knowledge of JavaScript and tests with Jest. 
-- 🧩 I used to learn C#, Python and PHP for awhile.
+- 🔭 I’m currently working as a Software Developer - React & DotNet Core.
+- 💼 In my previous Job, I used to work with JavaScript, NodeJS, ES6, TypeORM, PostgreSQL and GraphQL
+- 🌱 I’m currently learning TypeScript, C#, SOLID, DDD, Performance Management and Optimization.
+- 🎡 Interesting fact: I am also learning DataScience and BI. 
+- 🧩 I used to learn Python and PHP for awhile.
 - 👯 I’m looking to collaborate on a study group.
 - 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
