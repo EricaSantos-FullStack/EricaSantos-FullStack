@@ -2,10 +2,10 @@
 
 ### Hello World 👋 Welcome!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
-</div>
-##### Learning how to Excel myself every day. Go ahead and don't look back! 🚀🎯
+
+#### Learning how to Excel myself every day. Go ahead and don't look back! 🚀🎯
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
-</div>
+
 
 
   <a href="https://app.daily.dev/BackEnd" target="_blank">
@@ -28,16 +28,12 @@
 - 📫 How to reach me: add me on [LinkedIn](https://www.linkedin.com/in/erica-s-francisco/)
 - ⚡ Fun fact: I'm improving my README day by day so ... keep your eyes open for more news!
 - ⚡ Fun fact 2: I was an English teacher and I have lived abroad for awhile. Ask me where! Can you guess? 
-
 <br>
-### ✍️ Daily Quote <br>
+
+### ✍️ Daily Quote 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br>
-<br>
   
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
