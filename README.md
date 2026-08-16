@@ -1,9 +1,11 @@
 <img align="center" alt="print(Hello, World!)" height="140" width="930" src="https://user-images.githubusercontent.com/71906862/139163435-d3606313-68bc-44a3-a679-c8cc2efa6c2a.gif">
 
 ### Hello World 👋 Welcome!
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
+</div>
 ##### Learning how to Excel myself every day. Go ahead and don't look back! 🚀🎯
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
+</div>
 
 
   <a href="https://app.daily.dev/BackEnd" target="_blank">
@@ -28,12 +30,15 @@
 - ⚡ Fun fact 2: I was an English teacher and I have lived abroad for awhile. Ask me where! Can you guess? 
 
 <br>
+# 📊 GitHub Stats:
+<br>
+![](https://github-readme-stats.vercel.app/api?username=EricaSantos-FullStack&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=EricaSantos-FullStack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSantos-FullStack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <br>
 <br>
-<div align="center">
-  <a href="https://github.com/EricaSantos-FullStack">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EricaSantos-FullStack&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSantos-FullStack&layout=compact&langs_count=7&theme=radical"/>
+<br>
   
 </div>
   <div style="display: inline_block"><br>
@@ -68,12 +73,15 @@
    #### Team Gamer:
    <a href = "https://www.playstation.com/pt-br/"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/EricaSantos-FullStack/EricaSantos-FullStack/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-   ### Total de visitas no meu perfil :detective: 
-   ##
-  
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/EricaSantos-FullStack/count.svg" />
- </p>
+
+   <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+ 
+  <div align="center">
+   <img src="https://komarev.com/ghpvc/?username=EricaSantos-FullStack&abbreviated=true" />
+ </div>
+   
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
