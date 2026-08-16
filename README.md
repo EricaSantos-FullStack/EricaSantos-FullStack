@@ -30,13 +30,6 @@
 - ⚡ Fun fact 2: I was an English teacher and I have lived abroad for awhile. Ask me where! Can you guess? 
 
 <br>
-# 📊 GitHub Stats:
-<br>
-![](https://github-readme-stats.vercel.app/api?username=EricaSantos-FullStack&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=EricaSantos-FullStack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EricaSantos-FullStack&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<br>
 <br>
 <br>
   
@@ -50,7 +43,6 @@
   <img align="center" alt="Erica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erica-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erica-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Erica-mysql" height="30" width="40" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
   <img align="center" alt="Erica-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Erica-graphql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
   
