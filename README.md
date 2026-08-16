@@ -30,6 +30,10 @@
 - ⚡ Fun fact 2: I was an English teacher and I have lived abroad for awhile. Ask me where! Can you guess? 
 
 <br>
+### ✍️ Daily Quote <br>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <br>
 <br>
   
