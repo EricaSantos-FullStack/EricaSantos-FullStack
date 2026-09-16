@@ -1,4 +1,6 @@
-<img align="center" alt="print(Hello, World!)" height="140" width="930" src="https://user-images.githubusercontent.com/71906862/139163435-d3606313-68bc-44a3-a679-c8cc2efa6c2a.gif">
+<img align="center" alt="print(Hello, World!)" height="140" width="930" src="https://github.com/user-attachments/assets/a1833904-b09e-4623-8c65-77b3c316c628">
+
+
 
 ### Hello World 👋 Welcome!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
