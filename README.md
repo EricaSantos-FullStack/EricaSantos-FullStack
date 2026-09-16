@@ -10,11 +10,11 @@
 
 
 
-  <a href="https://app.daily.dev/BackEnd" target="_blank">
+  <a href="https://app.daily.dev/BackEnd6" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://github.com/EricaSantos-FullStack/EricaSantos-FullStack/blob/main/devcard.svg"
+      src="https://api.daily.dev/devcards/v2/s91IWhYVnSKfVfnV0IaXR.png?r=hon&type=default"
     />
   </a>
 </div>
