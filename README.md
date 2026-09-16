@@ -21,9 +21,9 @@
 
 - 🔭 I’m currently working as a Software Developer - React & DotNet Core.
 - 💼 In my previous Job, I used to work with JavaScript, NodeJS, ES6, TypeORM, PostgreSQL and GraphQL
-- 🌱 I’m currently learning TypeScript, C#, SOLID, DDD, Performance Management and Optimization.
-- 🎡 Interesting fact: I am also learning Data Analysis and BI. 
-- 🧩 I used to learn Python and PHP for awhile.
+- 🌱 What I already know: TypeScript, C#, Python, SOLID, DDD, Performance Management and Optimization.
+- 🎡 Interesting fact: I am also learning Data Analysis, BI, LLM and Cloud Computing.
+- 🧩 I used to learn Java and PHP for awhile.
 - 👯 I’m looking to collaborate on a study group.
 - 🤔 I’m looking for help with career tips and learning strategies.
 - 💬 Ask me about Figma, UI/UX! 
