@@ -2,7 +2,7 @@
 
 
 
-### Hello World 👋 Welcome!
+### Exploring the world of code, one project at a time 👋 Welcome!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Decorative Line"/>
 
 #### Learning how to Excel myself every day. Go ahead and don't look back! 🚀🎯
